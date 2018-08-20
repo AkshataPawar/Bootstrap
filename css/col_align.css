@@ -1,0 +1,24 @@
+
+body {
+   background-image: url("https://images2.alphacoders.com/774/thumb-1920-774372.jpg");
+   background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    
+}
+
+.navbar-brand {
+	background-color: #99A3A4  ;
+	text-decoration-color: #2E4053 ;
+	background-blend-mode: color-burn;
+
+}
+.collapse {
+	background-color: #99A3A4;
+	text-decoration-color: #2E4053 ;
+
+}
+
+     
+
+
